@@ -3,11 +3,11 @@
   <title>托尼的后院</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://tony-zhn.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2023-01-21T17:20:43.921Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://tony-zhn.github.io/"/>
+  <updated>2023-01-21T18:00:23.736Z</updated>
+  <id>http://tony-zhn.github.io/</id>
   
   <author>
     <name>Tony</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>新年随笔</title>
-    <link href="http://example.com/2023/01/21/hello-world/"/>
-    <id>http://example.com/2023/01/21/hello-world/</id>
+    <link href="http://tony-zhn.github.io/2023/01/21/hello-world/"/>
+    <id>http://tony-zhn.github.io/2023/01/21/hello-world/</id>
     <published>2023-01-21T15:23:30.000Z</published>
-    <updated>2023-01-21T17:20:43.921Z</updated>
+    <updated>2023-01-21T18:00:23.736Z</updated>
     
     <content type="html"><![CDATA[<p>第一次没有回家过年，因为在准备 TestDaF 和申请。</p><p>上一个年度，因为担心家人，一度放下出国的念头。但是 2022 年是如此的荒诞，或者说生活在中国本身就是如此荒诞，以至于国内工作成了不可选的选项。虽然十二月“被迫”放开了，但是荒诞的三年防疫总能让我想到三年自然灾害，以及随后的文革。很明显，中国人并不能从历史中学到任何教训，统治者还是如此能折腾。</p><p>选择德意志也有如此打算。人人都去美利坚，但私以为美利坚不过是另一个 China，尤其在“能者通吃”这个层面；H1B也是另一个不确定因素。个人还是钟意欧陆的闲适与 wlb （我不会说是因为德语变成沉默成本了），以及 Master <strong>省钱</strong>，去美利坚要省钱就只有 PhD ，但是在国内课题组的经历已经让我不想投身科研事业，只想早点找钱（穷人的孩子）。本人相当懒散且讨厌计划性（尤其在旅游的时候），但在出国这件事情上异常的有计划性，比如为了 APS 在大二就把小初高的毕业证找出来，提前办好 Mastercard 甚至打算去 Hong Kong 搞一张不受内地金融监管的银行卡云云，可能也是对墙内失望透顶的原因罢。</p><p>因为长期的政治性抑郁，22年的自己放慢了一些节奏。效果还不错，至少自己的心情好了很多，比如在面对墙内各种新闻会破口大骂中共 mmp 而不是把情绪憋在心里了。最近有考虑把摄影培养成一个长期性的爱好（甚至兼职），但是摄影实在烧钱，可能得从长计议了。</p><p>第一篇大概就这么多了。新年愿望是愿自己的 blog 更新勤一点。</p>]]></content>
     
@@ -35,7 +35,7 @@
     
     
     
-    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="http://tony-zhn.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
